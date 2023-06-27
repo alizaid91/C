@@ -1,1 +1,2 @@
-The number is 45
+The number is 47
+Thanks for using fprintf
